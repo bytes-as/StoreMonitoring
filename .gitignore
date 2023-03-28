@@ -1,0 +1,18 @@
+# Ignore files and directories that are generated automatically
+__pycache__/
+*.pyc
+.*pyo
+app.log
+
+# Ignore the virtual environment directory
+venc/
+
+# Ignore teh SQLite Databsae file
+site.db
+
+# Ignore the data director
+data/
+
+# Ignore the SQLite DB file director
+instance/
+

@@ -1,0 +1,4 @@
+DATETIME_FORMAT = '%Y-%m-%d %H:%M:%S.%f UTC'
+FALL_BACK_DATETIME_FORMAT = '%Y-%m-%d %H:%M:%S UTC'
+
+TIME_FORMAT = '%H:%M:%S'
